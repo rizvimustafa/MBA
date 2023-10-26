@@ -1,6 +1,6 @@
-Each algorithm has been implemented in a separate file
+FREQUENT ITEM PAIR GENERATION.
 [Apriori.py, PCY.py, SON.py, RandomSampling.py, PCYmultihash.py]
-
+Each algorithm has been implemented in a separate file.
 
  INSTRUCTIONS ON HOW TO RUN EACH FILE:
 
